@@ -31,7 +31,7 @@ a:hover {
 }
  body {
      color: #666666;
-     font-size: 14px;
+     font-size: 16px;
      font-family: 'poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
@@ -461,6 +461,11 @@ p {
 }
  .right_cart_section ul li a {
      color: #fff;
+}
+.logo-name{
+    font-size: 20px;
+    margin: 15px 40px;
+    color: #17B978;
 }
 /*-- end header middle --*/
  .top-bar-info {
